@@ -1,11 +1,9 @@
-package com.example.ProgressUpdaterExample;
+package com.example.samples.progressupdater;
 
 import android.app.DownloadManager;
 import android.content.Context;
 import android.database.Cursor;
 import android.os.Handler;
-import android.util.Log;
-import com.example.ProgressUpdaterExample.progressui.PinProgressButton;
 
 import java.util.Collections;
 import java.util.HashMap;

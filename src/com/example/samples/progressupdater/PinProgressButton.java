@@ -1,4 +1,4 @@
-package com.example.ProgressUpdaterExample.progressui;
+package com.example.samples.progressupdater;
 
 /*
  * Copyright 2012 Roman Nurik
@@ -28,9 +28,8 @@ import android.graphics.drawable.Drawable;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.widget.CompoundButton;
-import com.example.ProgressUpdaterExample.R;
+import com.example.samples.R;
 
 
 /**
@@ -144,7 +143,6 @@ public class PinProgressButton extends CompoundButton {
      */
     public void setProgress(int progress) {
         mProgress = progress;
-
         invalidate();
     }
 

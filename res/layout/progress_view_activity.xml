@@ -7,22 +7,12 @@
         >
 
 
-    <com.example.samples.progressupdater.PinProgressButton
-            android:id="@+id/pin_progress"
-            style="@style/PinProgressButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="bottom|right"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Download start"
-            android:id="@+id/button_download" android:layout_gravity="center"/>
-    <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Cancel Download"
-            android:id="@+id/button_cancel" android:layout_gravity="center"/>
+            android:text="start"
+            android:id="@+id/button_start" android:layout_gravity="center"/>
+
 
     <com.example.samples.progressui.ProgressView
             android:id="@+id/progressView"

@@ -22,4 +22,9 @@
         <attr name="circleColor" format="color" />
         <attr name="progressColor" format="color" />
     </declare-styleable>
+
+    <declare-styleable name="ProgressView">
+        <attr name="progress_color" format="color" />
+        <attr name="progress_max" format="integer" />
+    </declare-styleable>
 </resources>

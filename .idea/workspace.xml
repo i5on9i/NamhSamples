@@ -27,14 +27,49 @@
     <list default="true" id="ce385141-85d8-421e-9c35-8222b888f8c7" name="Default" comment="" />
     <ignored path="ProgressUpdaterExample.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377501405563" ignored="false" />
-    <file path="/MyActivity.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377505283087" ignored="false" />
-    <file path="/ProgressUpdater.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377504017395" ignored="false" />
+    <file path="/MyActivity.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377759638365" ignored="false" />
+    <file path="/ProgressUpdater.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377753946629" ignored="false" />
     <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/AndroidManifest.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377505020997" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/example/ProgressUpdaterExample/R.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377505002447" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/example/ProgressUpdaterExample/BuildConfig.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377505031575" ignored="false" />
-    <file path="/main.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377505144308" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/ProgressUpdaterExample/R.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377757133285" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/ProgressUpdaterExample/BuildConfig.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377757265449" ignored="false" />
+    <file path="/main.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377758621803" ignored="false" />
     <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/src/com/liveeco/ui/PinProgressButton.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377505473597" ignored="false" />
+    <file path="/ProgressView.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377751641952" ignored="false" />
+    <file path="/a.dummy" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377758594668" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/src/com/liveeco/ui/CalendarButton.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377740719169" ignored="false" />
+    <file path="/dimens.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377701830096" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/layout/calendar.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377754698492" ignored="false" />
+    <file path="/calendar.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377752671348" ignored="false" />
+    <file path="/attrs.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377739393525" ignored="false" />
+    <file path="/fragment.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377757168741" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/src/com/liveeco/ui/ProgressView.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377751768601" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/values/attrs.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377740140923" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/layout/calendar_body.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377740279931" ignored="false" />
+    <file path="/calendar_body.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377740221844" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/values/colors.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377740312856" ignored="false" />
+    <file path="/CalendarButton.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377740719169" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/src/com/liveeco/ui/ProgressUpdater.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377753947698" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/src/com/liveeco/MainActivity.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377754715157" ignored="false" />
+    <file path="/MainActivity.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377740994672" ignored="false" />
+    <file path="/ItemAdapter.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377741165068" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/src/com/liveeco/ui/ItemAdapter.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377754688572" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/drawable/calendar_bottom.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377752286956" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/drawable/calendar_body.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377752295945" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/drawable/calendar_top.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377752400166" ignored="false" />
+    <file path="/calendar_top.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377752393287" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/values/size.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377753713134" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/res/layout/item_head.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377752635105" ignored="false" />
+    <file path="/item_head.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377752610017" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/.idea/workspace.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377759838531" ignored="false" />
+    <file path="$PROJECT_DIR$/../../eclipse/android/liveeco/src/com/liveeco/MainFragment.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377754564907" ignored="false" />
+    <file path="/MainFragment.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377754393126" ignored="false" />
+    <file path="/ProgressViewActivity.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377757060330" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377759570202" ignored="false" />
+    <file path="/progress_view_activity.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377756720472" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/ProgressUpdaterExample/Manifest.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377757133285" ignored="false" />
+    <file path="/list_data.xml" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377758225656" ignored="false" />
+    <file path="/Dummy.txt" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377757502017" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/samples/Manifest.java" changelist="ce385141-85d8-421e-9c35-8222b888f8c7" time="1377759577348" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +121,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -95,10 +131,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/MyActivity.java">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="8" selection-start="1145" selection-end="1145" vertical-scroll-proportion="-2.2410257">
+            <state line="2" column="79" selection-start="191" selection-end="191" vertical-scroll-proportion="4.94">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progress_view_activity.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/progress_view_activity.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="24" selection-start="515" selection-end="515" vertical-scroll-proportion="-0.38">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProgressUpdaterActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/progressupdater/ProgressUpdaterActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="154" column="0" selection-start="4638" selection-end="4638" vertical-scroll-proportion="6.091503">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PinProgressButton.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/progressupdater/PinProgressButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="26" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#6977#6989#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProgressView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/progressui/ProgressView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="26" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="73" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,13 +205,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/PinProgressButton.java" />
-        <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/pinprogress/PinProgressButton.java" />
-        <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/ProgressUpdater.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/progressui/PinProgressButton.java" />
-        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/res/values/attrs.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/progressui/ProgressView.java" />
+        <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/ProgressViewActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/progressupdater/ProgressUpdaterActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/list_item.xml" />
+        <option value="$PROJECT_DIR$/res/values/list_data.xml" />
         <option value="$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/MyActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/progressui/PinProgressButton.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/progressui/ProgressView.java" />
+        <option value="$PROJECT_DIR$/res/layout/progress_view_activity.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/MyActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/progressupdater/ProgressUpdaterActivity.java" />
       </list>
     </option>
   </component>
@@ -156,8 +256,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -172,7 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemId" value="ProgressUpdater" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,7 +280,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemId" value="ProgressUpdater" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -190,12 +288,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressupdater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-xhdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdaterExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgressUpdater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +419,8 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="AndroidLayoutSelectedEditor" value="android-designer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="GoToClass.includeJavaFiles" value="false" />
@@ -218,6 +431,16 @@
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.ProgressUpdaterExample.progressupdater" />
+      <recent name="com.example.ProgressUpdaterExample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mine\programming\android\ProgressUpdater\res\layout" />
+      <recent name="D:\mine\programming\android\ProgressUpdater\res\drawable-xhdpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.ProgressUpdaterExample">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -369,6 +592,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ce385141-85d8-421e-9c35-8222b888f8c7" name="Default" comment="" />
@@ -379,32 +619,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.60023725" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29659644" sideWeight="0.60023725" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2597865" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.60023725" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29659644" sideWeight="0.60023725" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38434163" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.61565834" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.7402135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.61565834" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -472,45 +712,137 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/widget/TextView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="79" selection-start="505" selection-end="505" vertical-scroll-proportion="0.35625">
+        <state line="537" column="58" selection-start="21149" selection-end="21149" vertical-scroll-proportion="0.6756757">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/progressui/PinProgressButton.java">
+    <entry file="file://$PROJECT_DIR$/res/values/attrs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="72" selection-start="4784" selection-end="4784" vertical-scroll-proportion="0.6041667">
+        <state line="28" column="25" selection-start="922" selection-end="1094" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="46" selection-start="232" selection-end="240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/progressui/ProgressViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="68" selection-start="1258" selection-end="1258" vertical-scroll-proportion="-0.11561866">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1138#1840#0" expanded="true" />
+            <element signature="e#1287#1509#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="e#1825#1826#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/ProgressUpdater.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/list_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="480" selection-end="484" vertical-scroll-proportion="0.33186814">
+        <state line="8" column="36" selection-start="337" selection-end="337" vertical-scroll-proportion="0.34311512">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/list_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.60897434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/progressupdater/PinProgressButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="26" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6977#6989#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider selected="true" editor-type-id="android-designer">
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
-        <state line="10" column="44" selection-start="424" selection-end="424" vertical-scroll-proportion="-7.6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="79" selection-start="191" selection-end="191" vertical-scroll-proportion="4.94">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/ProgressUpdaterExample/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/progress_view_activity.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="8" selection-start="1145" selection-end="1145" vertical-scroll-proportion="-2.2410257">
+        <state line="13" column="24" selection-start="515" selection-end="515" vertical-scroll-proportion="-0.38">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/sdk/platforms/android-17/android.jar!/android/R.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="552" column="32" selection-start="39784" selection-end="39784" vertical-scroll-proportion="0.33262712">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="73" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/content/Intent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2585" column="4" selection-start="121213" selection-end="121301" vertical-scroll-proportion="0.45751634">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="14" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.5816994">
+          <folding>
+            <element signature="e#2015#2032#0" expanded="true" />
+            <element signature="e#4068#4084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/content/ContextWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="438" column="29" selection-start="12386" selection-end="12386" vertical-scroll-proportion="0.77754235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/progressui/ProgressView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/progressupdater/ProgressUpdaterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="0" selection-start="4638" selection-end="4638" vertical-scroll-proportion="6.091503">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

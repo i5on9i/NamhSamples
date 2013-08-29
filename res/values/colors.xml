@@ -2,6 +2,8 @@
 <resources>
   
     <color name="pin_progress_default_circle_color">#80ffffff</color>
-    <color name="pin_progress_default_progress_color">#33b5e5</color> 
+    <color name="pin_progress_default_progress_color">#33b5e5</color>
+    <color name="pin_progress_color">#ff5de54b</color>
+    <color name="calendar_text_color">#231F20</color>
  
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="keys">
+        <item>0</item>
+        <item>1</item>
+
+    </integer-array>
+
+    <string-array name="values">
+        <item>Process Updater</item>
+        <item>Process Button</item>
+
+    </string-array>
+
+
+</resources>

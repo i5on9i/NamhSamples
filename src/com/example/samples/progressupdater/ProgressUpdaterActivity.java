@@ -1,4 +1,4 @@
-package com.example.ProgressUpdaterExample;
+package com.example.samples.progressupdater;
 
 import android.app.Activity;
 import android.app.DownloadManager;
@@ -12,12 +12,19 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import com.example.ProgressUpdaterExample.progressui.PinProgressButton;
+import com.example.samples.progressui.ProgressViewActivity;
+import com.example.samples.R;
+import com.example.samples.progressui.ProgressView;
 
-public class MyActivity extends Activity implements View.OnClickListener {
+public class ProgressUpdaterActivity extends Activity implements View.OnClickListener {
     private PinProgressButton mProgressButton;
     private Button mDownloadButton;
     private Button mCancelButton;
+
+    private ProgressView pw_two;
+    int progress = 0;
+
+
     private long mDownloadId;
 
     /**
@@ -28,7 +35,7 @@ public class MyActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-        mProgressButton = (PinProgressButton)findViewById(R.id.pin_progress);
+        mProgressButton = (PinProgressButton) findViewById(R.id.pin_progress);
         mDownloadButton = (Button) findViewById(R.id.button_download);
         mCancelButton = (Button) findViewById(R.id.button_cancel);
 
@@ -38,18 +45,31 @@ public class MyActivity extends Activity implements View.OnClickListener {
 
         ProgressUpdater.getInstance().init(getApplicationContext());
 
-        // Action is added
-        IntentFilter filter = new IntentFilter();
-        filter.addAction(DownloadManager.ACTION_DOWNLOAD_COMPLETE);
-
-        registerReceiver(mReceiver, filter);
 
 
 
 
     }
 
-    private long doDownload(PinProgressButton pb, String fUrl){
+    @Override
+    protected void onPause() {
+        super.onPause();
+        unregisterReceiver(mReceiver);
+
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        // Action is added
+        IntentFilter filter = new IntentFilter();
+        filter.addAction(DownloadManager.ACTION_DOWNLOAD_COMPLETE);
+        registerReceiver(mReceiver, filter);
+
+    }
+
+    private long doDownload(PinProgressButton pb, String fUrl) {
 
         String filename = "TestImage.jpg";
 
@@ -62,13 +82,12 @@ public class MyActivity extends Activity implements View.OnClickListener {
 
 
         if (android.os.Environment.getExternalStorageState()
-                .equals(android.os.Environment.MEDIA_MOUNTED))
-        {
+                .equals(android.os.Environment.MEDIA_MOUNTED)) {
             request.setDestinationInExternalPublicDir(
                     android.os.Environment.DIRECTORY_DOWNLOADS, filename);
         }
 
-        return ((DownloadManager)getSystemService(Context.DOWNLOAD_SERVICE)).enqueue(request);
+        return ((DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE)).enqueue(request);
 
 
     }
@@ -86,11 +105,9 @@ public class MyActivity extends Activity implements View.OnClickListener {
             if (action.equals(DownloadManager.ACTION_DOWNLOAD_COMPLETE)) {
 
                 int status = getDownloadStateWhenCompleted(downloadId);
-                if(status == DownloadManager.STATUS_SUCCESSFUL){
+                if (status == DownloadManager.STATUS_SUCCESSFUL) {
                     // when the download status is "Successful"
-                }
-                else if(status == DownloadManager.STATUS_FAILED)
-                {
+                } else if (status == DownloadManager.STATUS_FAILED) {
                     // When Canceled
 
                 }
@@ -100,7 +117,7 @@ public class MyActivity extends Activity implements View.OnClickListener {
 
             }
 
-            if(action.equals(Intent.ACTION_SCREEN_ON)){
+            if (action.equals(Intent.ACTION_SCREEN_ON)) {
                 Log.i("[BroadcastReceiver]", "Screen ON");
             }
 
@@ -108,11 +125,11 @@ public class MyActivity extends Activity implements View.OnClickListener {
     };
 
 
-    private int getDownloadStateWhenCompleted(long id){
+    private int getDownloadStateWhenCompleted(long id) {
 
         DownloadManager.Query query = new DownloadManager.Query();
         query.setFilterById(id);
-        Cursor c = ((DownloadManager)getSystemService(Context.DOWNLOAD_SERVICE)).query(query);
+        Cursor c = ((DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE)).query(query);
         if (c.moveToFirst()) {
             int statusColumn = c.getColumnIndex(DownloadManager.COLUMN_STATUS);
 
@@ -127,18 +144,18 @@ public class MyActivity extends Activity implements View.OnClickListener {
     @Override
     public void onClick(View v) {
 
-        if(v.getId() == R.id.button_download)
-        {
+        if (v.getId() == R.id.button_download) {
             String fUrl = "http://upload.wikimedia.org/wikipedia/commons/c/cf/Frog_on_river_4000x3000_26-09-2010_11-01am_2mb.jpg";
 
             mDownloadId = doDownload(mProgressButton, fUrl);
 
             ProgressUpdater.getInstance().execute(mProgressButton, mDownloadId);
+        } else if (v.getId() == R.id.button_cancel) {
+            ((DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE)).remove(mDownloadId);
+
         }
-        else if(v.getId() == R.id.button_cancel)
-        {
-            ((DownloadManager)getSystemService(Context.DOWNLOAD_SERVICE)).remove(mDownloadId);
-        }
+
+
     }
 }
 

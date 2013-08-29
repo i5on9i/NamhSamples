@@ -8,6 +8,15 @@
         <item name="android:focusable">true</item>
         <item name="android:background">?android:selectableItemBackground</item>
     </style>
+
+
+
+    <style name="CalendarBody" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/calendar_body_text_size</item>
+        <item name="android:textColor">@color/calendar_text_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+    </style>
     
     
     

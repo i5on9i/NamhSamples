@@ -16,4 +16,7 @@
 
 <resources>
     <dimen name="pin_progress_inner_size">28dp</dimen>
+
+    <dimen name="calendar_body_text_size">48sp</dimen>
+
 </resources>
