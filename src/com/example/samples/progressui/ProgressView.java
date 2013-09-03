@@ -82,6 +82,7 @@ public class ProgressView extends TextView {
             }
             a.recycle();
         }
+        setupPaints();
     }
 
 
@@ -100,17 +101,17 @@ public class ProgressView extends TextView {
     //----------------------------------
     //Setting up stuff
     //----------------------------------
-
-    /**
-     * Now we know the dimensions of the view, setup the bounds and paints
-     */
     @Override
-    public void onAttachedToWindow() {
-        super.onAttachedToWindow();
+    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
+        super.onMeasure(widthMeasureSpec, heightMeasureSpec);
+        
+        // As for setupBounds(), using onAttatchedToWindow() is not appropriate for some view such as Gallery
+        // because, after onAttatchedToWindow() is invoked, {@ref: View.mMeasuredWidth}
+        // is determined.
         setupBounds();
-        setupPaints();
-        invalidate();
+
     }
+
 
     private void setupPaints() {
 
@@ -128,9 +129,17 @@ public class ProgressView extends TextView {
         paddingLeft = this.getPaddingLeft();
         paddingRight = this.getPaddingRight();
 
+        // FYI
+        // For this.getMeasuredWidth(),
+        // setupBounds() is moved to onMeasure()
+        int layoutWidth = this.getLayoutParams().width;
+        if (layoutWidth == ViewGroup.LayoutParams.MATCH_PARENT) {
+            layoutWidth = this.getMeasuredWidth();
+        }
+
         circleBounds = new RectF(paddingLeft,
                 paddingTop,
-                this.getLayoutParams().width - paddingRight,
+                layoutWidth - paddingRight,
                 this.getLayoutParams().height - paddingBottom);
 
 
