@@ -12,7 +12,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import com.example.samples.progressui.ProgressViewActivity;
 import com.example.samples.R;
 import com.example.samples.progressui.ProgressView;
 
@@ -44,9 +43,6 @@ public class ProgressUpdaterActivity extends Activity implements View.OnClickLis
 
 
         ProgressUpdater.getInstance().init(getApplicationContext());
-
-
-
 
 
     }

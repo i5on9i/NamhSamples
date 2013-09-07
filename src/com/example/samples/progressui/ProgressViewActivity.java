@@ -5,13 +5,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import com.example.samples.R;
-import com.example.samples.progressui.ProgressView;
 
 public class ProgressViewActivity extends Activity implements View.OnClickListener {
 
     private Button mDownloadButton;
     private Button mCancelButton;
-
 
 
     private long mDownloadId;

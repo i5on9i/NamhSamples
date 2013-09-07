@@ -12,8 +12,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 
-
-
 /**
  * Created with IntelliJ IDEA.
  * User: namh
@@ -32,11 +30,12 @@ public class ProgressUpdater {
             = Collections.synchronizedMap(new HashMap<Long, ButtonUpdaterUiRunnable>());
 
 
-
     private volatile static ProgressUpdater instance;
     private Context mContext;
 
-    /** Returns singleton class instance */
+    /**
+     * Returns singleton class instance
+     */
     public static ProgressUpdater getInstance() {
         if (instance == null) {
             synchronized (ProgressUpdater.class) {
@@ -47,18 +46,18 @@ public class ProgressUpdater {
         }
         return instance;
     }
+
     private ProgressUpdater() {
     }
 
-    public synchronized void init(Context c){
+    public synchronized void init(Context c) {
         mContext = c;
         mExecutorService = Executors.newFixedThreadPool(1);
     }
 
-    public void execute(PinProgressButton ppb, long dId){
+    public void execute(PinProgressButton ppb, long dId) {
         //mCurrentPinProgressButtons.put(ppb, progress);
-        if(ppb == null || dId == -1)
-        {
+        if (ppb == null || dId == -1) {
             return;
         }
 
@@ -66,14 +65,12 @@ public class ProgressUpdater {
         Task t = new Task(ppb, dId);
         PButtonUpdater pbu = new PButtonUpdater(t);
 
-        mExecutorService.submit(pbu);	// thread.execute()
+        mExecutorService.submit(pbu);    // thread.execute()
 
     }
 
 
-
-
-    public void stop(long dId){
+    public void stop(long dId) {
 
         ButtonUpdaterUiRunnable bu = mCurrentButtonUpdater.get(dId);
         mUIHandler.removeCallbacks(bu);
@@ -89,15 +86,14 @@ public class ProgressUpdater {
         Task task;
 
 
-        PButtonUpdater(Task task){
+        PButtonUpdater(Task task) {
             this.task = task;
         }
 
         @Override
         public void run() {
 
-            if(viewCorrupted(task))
-            {
+            if (viewCorrupted(task)) {
                 return;
             }
             ButtonUpdaterUiRunnable bu = new ButtonUpdaterUiRunnable(task);
@@ -112,16 +108,14 @@ public class ProgressUpdater {
     private class ButtonUpdaterUiRunnable implements Runnable {
         Task mTask;
 
-        public ButtonUpdaterUiRunnable(Task t){
+        public ButtonUpdaterUiRunnable(Task t) {
             mTask = t;
         }
 
         @Override
-        public void run()
-        {
+        public void run() {
 
-            if(viewCorrupted(mTask))
-            {
+            if (viewCorrupted(mTask)) {
                 return;
             }
             mTask.ppb.setProgress(getProgress(mTask.downloadId));
@@ -133,49 +127,46 @@ public class ProgressUpdater {
     private class ButtonInitUiRunnable implements Runnable {
         Task mTask;
 
-        public ButtonInitUiRunnable(Task t){
+        public ButtonInitUiRunnable(Task t) {
             mTask = t;
         }
 
         @Override
-        public void run()
-        {
+        public void run() {
             mTask.ppb.setProgress(0);
         }
 
     }
 
 
-    private class Task
-    {
+    private class Task {
         public PinProgressButton ppb;
         public long downloadId;
 
-        public Task(PinProgressButton ppb, long dId){
+        public Task(PinProgressButton ppb, long dId) {
             this.ppb = ppb;
             this.downloadId = dId;
         }
     }
 
 
-    protected boolean viewCorrupted(Task task){
+    protected boolean viewCorrupted(Task task) {
         Long dId = mCurrentDownloadIds.get(task.ppb);
 
-        if(dId == null || dId != task.downloadId){
+        if (dId == null || dId != task.downloadId) {
             return true;
         }
         return false;
     }
 
 
-    private int getProgress(long dId){
+    private int getProgress(long dId) {
         DownloadManager.Query q = new DownloadManager.Query();
         q.setFilterById(dId);
 
-        Cursor cursor = ((DownloadManager)mContext
+        Cursor cursor = ((DownloadManager) mContext
                 .getSystemService(Context.DOWNLOAD_SERVICE)).query(q);
-        if(cursor.getCount() <= 0)
-        {
+        if (cursor.getCount() <= 0) {
             cursor.close();
             return 0;
         }
@@ -191,6 +182,6 @@ public class ProgressUpdater {
             return 0;
         }
 
-        return (int)((long)bytes_downloaded*100 / (long)bytes_total);
+        return (int) ((long) bytes_downloaded * 100 / (long) bytes_total);
     }
 }

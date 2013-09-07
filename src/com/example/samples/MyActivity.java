@@ -6,14 +6,16 @@ import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.*;
-import com.example.samples.progressupdater.PinProgressButton;
+import android.widget.Button;
+import android.widget.ListView;
+import android.widget.SimpleAdapter;
 import com.example.samples.progressui.ProgressView;
+import com.example.samples.progressupdater.PinProgressButton;
 
 import java.text.Collator;
 import java.util.*;
 
-public class MyActivity extends ListActivity{
+public class MyActivity extends ListActivity {
 
     private PinProgressButton mProgressButton;
     private Button mDownloadButton;
@@ -41,11 +43,9 @@ public class MyActivity extends ListActivity{
         }
 
         setListAdapter(new SimpleAdapter(this, getData(path),
-                android.R.layout.simple_list_item_1, new String[] { "title" },
-                new int[] { android.R.id.text1 }));
+                android.R.layout.simple_list_item_1, new String[]{"title"},
+                new int[]{android.R.id.text1}));
         getListView().setTextFilterEnabled(true);
-
-
 
 
     }

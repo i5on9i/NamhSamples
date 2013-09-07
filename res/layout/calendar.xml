@@ -4,8 +4,6 @@
 <TextView
 
         xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res/com.liveeco"
-        xmlns:tools="http://schemas.android.com/tools"
 
         android:id="@+id/text_calendar_frame"
         android:text="test1"

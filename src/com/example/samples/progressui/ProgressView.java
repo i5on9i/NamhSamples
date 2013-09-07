@@ -5,10 +5,7 @@ import android.content.res.TypedArray;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.RectF;
-import android.os.Handler;
-import android.os.Message;
 import android.util.AttributeSet;
-import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import com.example.samples.R;
@@ -105,7 +102,7 @@ public class ProgressView extends TextView {
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec);
-        
+
         // As for setupBounds(), using onAttatchedToWindow() is not appropriate for some view such as Gallery
         // because, after onAttatchedToWindow() is invoked, {@ref: View.mMeasuredWidth}
         // is determined.

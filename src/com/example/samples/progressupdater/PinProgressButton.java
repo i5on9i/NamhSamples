@@ -36,7 +36,7 @@ import com.example.samples.R;
  * A two-state button that indicates whether some related content is pinned
  * (the checked state) or unpinned (the unchecked state), and the download
  * progress for this content.
- * <p>
+ * <p/>
  * See <a href="http://developer.android.com/design/building-blocks/progress.html#custom-indicators">Android
  * Design: Progress &amp; Activity</a> for more details on this custom
  * indicator.
@@ -139,13 +139,13 @@ public class PinProgressButton extends CompoundButton {
 
     /**
      * Sets the current download progress (between 0 and max).
+     *
      * @see #setMax(int)
      */
     public void setProgress(int progress) {
         mProgress = progress;
         invalidate();
     }
-
 
 
     @Override

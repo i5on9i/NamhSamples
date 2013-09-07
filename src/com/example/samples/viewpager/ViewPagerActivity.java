@@ -1,10 +1,10 @@
 package com.example.samples.viewpager;
 
 
-import android.os.Bundle;
-import android.app.Activity;
-import android.support.v4.view.PagerAdapter;
 
+import android.app.Activity;
+import android.os.Bundle;
+import android.support.v4.view.PagerAdapter;
 import android.view.Menu;
 import com.example.samples.R;
 
@@ -35,10 +35,11 @@ public class ViewPagerActivity extends Activity {
                 "315,761,000", "237,641,326", "193,946,886", "182,912,000",
                 "170,901,000", "152,518,015", "143,369,806", "127,360,000"};
 
-        flag = new int[]{R.drawable.china, R.drawable.india,
-                R.drawable.unitedstates, R.drawable.indonesia,
-                R.drawable.brazil, R.drawable.pakistan, R.drawable.nigeria,
-                R.drawable.bangladesh, R.drawable.russia, R.drawable.japan};
+//        flag = new int[]{R.drawable.china, R.drawable.india,
+//                R.drawable.unitedstates, R.drawable.indonesia,
+//                R.drawable.brazil, R.drawable.pakistan, R.drawable.nigeria,
+//                R.drawable.bangladesh, R.drawable.russia, R.drawable.japan};
+        flag = new int[]{1,2,3,4,5,6,7,8,9, 10};
 
         // Locate the ViewPager in viewpager_main.xml
         viewPager = (ViewPager) findViewById(R.id.pager);
