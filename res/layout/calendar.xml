@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  calendar -->
+<TextView
+
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res/com.liveeco"
+        xmlns:tools="http://schemas.android.com/tools"
+
+        android:id="@+id/text_calendar_frame"
+        android:text="test1"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        >
+    <!-- android:background="@drawable/button_calendar_pressed" -->
+
+
+</TextView>

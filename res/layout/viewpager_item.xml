@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+
+              android:padding="0dp"
+
+              android:background="@android:color/black">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:background="@drawable/gallery_item_template"
+                  android:orientation="vertical"
+                  >
+        <!--  android:background="@drawable/shadowrect" -->
+
+        <!-- button -->
+        <include
+                layout="@layout/item_head"
+                />
+
+
+        <!-- text viewer -->
+        <include
+                layout="@layout/item_body"
+                />
+    </LinearLayout>
+</LinearLayout>
+
+
