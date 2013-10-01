@@ -7,6 +7,9 @@
     <color name="calendar_text_color">#231F20</color>
 
     <color name="calendar_background_top">@android:color/transparent</color>
+    <color name="thm_input_send_font_color">#AE91D5</color>
+
+    <color name="dialog_text_color">@color/calendar_text_color</color>
 
  
 </resources>

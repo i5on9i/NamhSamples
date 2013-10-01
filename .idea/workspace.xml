@@ -1,57 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-17" />
+        <option name="theme" value="Theme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-17" />
+        <option name="theme" value="Theme" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="afec232e-1050-459c-ad7a-486251d819df" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\ant.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\build.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\local.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-ldpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-xhdpi\calendar_body.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-xhdpi\pin_progress_pinned.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-xhdpi\pin_progress_shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable-xhdpi\pin_progress_unpinned.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\bangladesh.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\brazil.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\china.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\india.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\indonesia.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\japan.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\nigeria.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\pakistan.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\russia.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\drawable\unitedstates.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu/menu_option.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/theme.xml" />
+      <change type="DELETED" beforePath="D:\mine\programming\android\NamhSamples\res\menu\activity_main.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/example/samples/MyActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NamhSamples.iml" afterPath="$PROJECT_DIR$/NamhSamples.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/progressupdater/PinProgressButton.java" afterPath="$PROJECT_DIR$/src/com/example/samples/progressupdater/PinProgressButton.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/progressupdater/ProgressUpdater.java" afterPath="$PROJECT_DIR$/src/com/example/samples/progressupdater/ProgressUpdater.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/progressupdater/ProgressUpdaterActivity.java" afterPath="$PROJECT_DIR$/src/com/example/samples/progressupdater/ProgressUpdaterActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/progressui/ProgressView.java" afterPath="$PROJECT_DIR$/src/com/example/samples/progressui/ProgressView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/progressui/ProgressViewActivity.java" afterPath="$PROJECT_DIR$/src/com/example/samples/progressui/ProgressViewActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/viewpager/ViewPager.java" afterPath="$PROJECT_DIR$/src/com/example/samples/viewpager/ViewPager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/viewpager/ViewPagerActivity.java" afterPath="$PROJECT_DIR$/src/com/example/samples/viewpager/ViewPagerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/samples/viewpager/ViewPagerAdapter.java" afterPath="$PROJECT_DIR$/src/com/example/samples/viewpager/ViewPagerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/calendar.xml" afterPath="$PROJECT_DIR$/res/layout/calendar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/horizontalview_main.xml" afterPath="$PROJECT_DIR$/res/layout/horizontalview_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/item_body.xml" afterPath="$PROJECT_DIR$/res/layout/item_body.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/item_head.xml" afterPath="$PROJECT_DIR$/res/layout/item_head.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/colors.xml" afterPath="$PROJECT_DIR$/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/dimens.xml" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/viewpager_item.xml" afterPath="$PROJECT_DIR$/res/layout/viewpager_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/viewpager_main.xml" afterPath="$PROJECT_DIR$/res/layout/viewpager_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NamhSamples.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378547239154" ignored="false" />
-    <file path="/Dummy.txt" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378547285768" ignored="false" />
+    <file path="/Dummy.txt" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380594944187" ignored="false" />
+    <file path="/MMiniWriteActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380532024831" ignored="false" />
+    <file path="/mmini_write.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378718608300" ignored="false" />
+    <file path="/fragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380616047655" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380619209540" ignored="false" />
+    <file path="/MMiniHttpClient.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378709594801" ignored="false" />
+    <file path="/MMiniWebViewClient.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380260952372" ignored="false" />
+    <file path="/comment_write_box.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378781006634" ignored="false" />
+    <file path="/strings.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380295719011" ignored="false" />
+    <file path="/comment_input_box.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380511468124" ignored="false" />
+    <file path="/dimens.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380533928011" ignored="false" />
+    <file path="/thm_input_bar_button_bg.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380511505341" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/MMiniWebViewClient.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380260952815" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/CookieSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380251109604" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/NoteWriteSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380284939562" ignored="false" />
+    <file path="/NoteWriteSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380284866867" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380532760882" ignored="false" />
+    <file path="/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380532594448" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/LoginActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380260945160" ignored="false" />
+    <file path="/LoginActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380260942397" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/comment_input_box.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380274044648" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/NoteLoadSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380604213762" ignored="false" />
+    <file path="/NoteLoadSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380603868512" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/NoteEntry.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380415090547" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/drawable/thm_input_bar_button_bg.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380261632146" ignored="false" />
+    <file path="/a.dummy" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380613433419" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/InputBoxTextCountWatcher.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380272226763" ignored="false" />
+    <file path="/InputBoxTextCountWatcher.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380272224798" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/values/strings.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380295720344" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/comment_input_box_content_size_view.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380263400403" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/MMiniNoteListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380547914528" ignored="false" />
+    <file path="/MMiniNoteListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380274686503" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/lib/PullToRefreshBase.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380615693876" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/pulltorefresh_list_item.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380282076313" ignored="false" />
+    <file path="/pulltorefresh_list_item.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380282057264" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/values/dimens.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380534358698" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/values/colors.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380539688526" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/pulltorefresh_list.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380294728135" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/menu/menu_actions.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380510678192" ignored="false" />
+    <file path="/menu_actions.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380299096879" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/values/themes.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380539691344" ignored="false" />
+    <file path="/themes.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380539602104" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/values-v11/themes.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380534194369" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/menu_item_layout.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380299896524" ignored="false" />
+    <file path="/menu_item_layout.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380299886854" ignored="false" />
+    <file path="/SystemUiHiderHoneycomb.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380339841640" ignored="false" />
+    <file path="$PROJECT_DIR$/../uiactionbar/src/com/example/uiactionbar/util/SystemUiHiderHoneycomb.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380339920583" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/res/layout/main.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380372763616" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/build.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380372571656" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380374256112" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/src/com/example/menuitem/MyActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380375312238" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/res/values/strings.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380372806621" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/gen/com/example/menuitem/BuildConfig.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380372656758" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/res/drawable-hdpi/background_paper.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380373052064" ignored="false" />
+    <file path="$PROJECT_DIR$/../menuitem/res/values/themes.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380376279869" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/calendar_flat_top.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380410176957" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/values/calendar_styles.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380410248143" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/values/calendar_color.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380410269741" ignored="false" />
+    <file path="/colors.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380539418170" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/login.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380504354889" ignored="false" />
+    <file path="/login.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380504354889" ignored="false" />
+    <file path="/main.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380508859357" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/main.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380508923943" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/podcast_list.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380503668376" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/login_view.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380508623037" ignored="false" />
+    <file path="/activity_main.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380510707216" ignored="false" />
+    <file path="/theme.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380538109613" ignored="false" />
+    <file path="/mmini_login_layout.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380512578482" ignored="false" />
+    <file path="/menu_option.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380517908914" ignored="false" />
+    <file path="/PullToRefreshBase.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380604343030" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/PullToRefreshListView.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380613581502" ignored="false" />
+    <file path="/PullToRefreshListView.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380613579738" ignored="false" />
+    <file path="$PROJECT_DIR$/../res_AmazingListView/AmazingListViewDemo/src/com/foound/amazinglistview/demo/Data.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380551009061" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/LoadingLayout.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380609549224" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/LoadingFooterLayout.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380613375218" ignored="false" />
+    <file path="/LoadingFooterLayout.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380609600758" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/lib/LoadingSignLayoutGroup.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380612792452" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/lib/LoadingSignLayout.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380612918030" ignored="false" />
+    <file path="/LoadingSignLayout.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380612917289" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/pulltorefresh_footer.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380614080448" ignored="false" />
+    <file path="/pulltorefresh_footer.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380614079530" ignored="false" />
+    <file path="/OnLoadingListView.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380616814375" ignored="false" />
+    <file path="/autoloadinglistview_activity.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380615816537" ignored="false" />
+    <file path="/AutoLoadingListViewAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380615466594" ignored="false" />
+    <file path="/autoloadinglistview_item.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380619776644" ignored="false" />
+    <file path="/AutoLoadingListViewActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380620311701" ignored="false" />
+    <file path="/AutoLoadingListView.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380620201341" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +140,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -103,6 +177,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -112,11 +187,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/MyActivity.java">
+      <file leaf-file-name="AutoLoadingListView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="34" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.0">
+            <state line="47" column="0" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoLoadingListViewActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListViewActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="45" selection-start="2251" selection-end="2251" vertical-scroll-proportion="0.6363636">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,6 +220,28 @@
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/drawable/thm_input_bar_button_bg.xml" />
+        <option value="$PROJECT_DIR$/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/res/layout/mmini_login_layout.xml" />
+        <option value="$PROJECT_DIR$/res/menu/menu_option.xml" />
+        <option value="$PROJECT_DIR$/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/res/layout/mmini_write.xml" />
+        <option value="$PROJECT_DIR$/res/values/theme.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mbcmini/MMiniWriteActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/onloadinglist/OnLoadingListView.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListViewAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/autoloadinglistview_activity.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/autoloadinglistview_item.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListView.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListViewActivity.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -169,7 +277,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,26 +313,185 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onloadinglist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mbcmini" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Libraries" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="D:/Program Files/Android/sdk/extras/android/support/v4/android-support-v4.jar!/" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5556" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554 (AVD_for_Galaxy_Nexus_by_Google)" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.samples" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_One_by_Google" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.samples.onloadinglist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mine\programming\android\NamhSamples\res\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mine\programming\android\NamhSamples\res\layout" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.NamhSamples">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -234,12 +500,43 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -267,19 +564,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -346,6 +630,8 @@
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <list size="1">
@@ -357,6 +643,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="afec232e-1050-459c-ad7a-486251d819df" name="Default" comment="" />
@@ -369,27 +672,30 @@
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.60972714" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.60972714" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977462" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37959668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5516014" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42941874" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24918832" sideWeight="0.60972714" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6702254" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29902756" sideWeight="0.62040335" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -457,10 +763,130 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://D:/Program Files/Android/sdk/platforms/android-17/data/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="83" selection-start="1965" selection-end="1982" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Android/sdk/platforms/android-17/data/res/values/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="674" column="58" selection-start="42841" selection-end="42841" vertical-scroll-proportion="0.8285124" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/mmini_write.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="18" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/theme.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="27" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/mbcmini/MMiniWriteActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="5" selection-start="1765" selection-end="2983" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/autoloadinglistview_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="-8.96">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/autoloadinglistview_loading.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="12" selection-start="1276" selection-end="1276" vertical-scroll-proportion="-21.12">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="26" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#631#639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/samples/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="34" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.0">
+        <state line="17" column="13" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="45" selection-start="2914" selection-end="2914" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3211" column="0" selection-start="120742" selection-end="120742" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/widget/AdapterViewFlipper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="14" selection-start="4209" selection-end="4209" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/autoloadinglistview_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="316" selection-end="316" vertical-scroll-proportion="0.44067797">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/onloadinglist/AutoLoadingListViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="45" selection-start="2251" selection-end="2251" vertical-scroll-proportion="0.6363636">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -10,4 +10,5 @@
     <string name="ranklabel">"Rank : "</string>
     <string name="countrylabel">"Country : "</string>
     <string name="populationlabel">"Population : "</string>
+    <string name="text_sending_message">"전송 : "</string>
 </resources>

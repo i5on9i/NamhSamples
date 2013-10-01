@@ -61,7 +61,7 @@ public class ViewPagerActivity extends Activity {
     // Not using options menu in this tutorial
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_main, menu);
+        getMenuInflater().inflate(R.menu.menu_option, menu);
         return true;
     }
 }
