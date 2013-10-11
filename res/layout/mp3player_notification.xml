@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+
+            android:id="@+id/noti_image"
+            android:src="@drawable/icon"
+
+            />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+
+            android:layout_toRightOf="@id/noti_image"
+
+            android:id="@+id/noti_text"
+            android:text="Stop the Player"
+            />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+
+            android:layout_below="@id/noti_text"
+            android:layout_toRightOf="@id/noti_image"
+
+            android:id="@+id/noti_button_play"
+            android:text="play"
+            />
+
+
+</RelativeLayout>

@@ -25,36 +25,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afec232e-1050-459c-ad7a-486251d819df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/contentprovider/ContentProviderActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/contentprovider/Contract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/contentprovider/DatabaseHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/contentprovider/DatabaseProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/contentprovider/DownloadItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/contentprovider/Note.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/contentprovider_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/test/CreateNotificationActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/samples/test/NotificationReceiverActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/test_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/test_result.xml" />
     </list>
     <ignored path="NamhSamples.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381454947003" ignored="false" />
+    <file path="/Dummy.txt" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382093623019" ignored="false" />
     <file path="/MMiniWriteActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380532024831" ignored="false" />
     <file path="/mmini_write.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378718608300" ignored="false" />
-    <file path="/fragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381459107995" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381457666853" ignored="false" />
+    <file path="/fragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382090491224" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382000001329" ignored="false" />
     <file path="/MMiniHttpClient.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378709594801" ignored="false" />
     <file path="/MMiniWebViewClient.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380641880752" ignored="false" />
     <file path="/comment_write_box.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1378781006634" ignored="false" />
-    <file path="/strings.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381455968711" ignored="false" />
+    <file path="/strings.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381983902434" ignored="false" />
     <file path="/comment_input_box.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380511468124" ignored="false" />
-    <file path="/dimens.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380533928011" ignored="false" />
+    <file path="/dimens.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381557840763" ignored="false" />
     <file path="/thm_input_bar_button_bg.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380511505341" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/MMiniWebViewClient.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380641882396" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/CookieSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380251109604" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/NoteWriteSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380636898620" ignored="false" />
     <file path="/NoteWriteSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380636886871" ignored="false" />
-    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380641987102" ignored="false" />
-    <file path="/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380641720382" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381481588514" ignored="false" />
+    <file path="/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381481468016" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/LoginActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380260945160" ignored="false" />
     <file path="/LoginActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380260942397" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/layout/comment_input_box.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380274044648" ignored="false" />
@@ -62,16 +57,16 @@
     <file path="/NoteLoadSingleton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380603868512" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/NoteEntry.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380415090547" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/drawable/thm_input_bar_button_bg.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380261632146" ignored="false" />
-    <file path="/a.dummy" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381459806503" ignored="false" />
+    <file path="/a.dummy" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382087335083" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/InputBoxTextCountWatcher.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380272226763" ignored="false" />
     <file path="/InputBoxTextCountWatcher.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380272224798" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/values/strings.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380641753371" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/layout/comment_input_box_content_size_view.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380263400403" ignored="false" />
-    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/MMiniNoteListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380547914528" ignored="false" />
-    <file path="/MMiniNoteListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380274686503" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/notelist/MMiniNoteListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381485411447" ignored="false" />
+    <file path="/MMiniNoteListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381545007088" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/src/com/lib/PullToRefreshBase.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380615693876" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/layout/pulltorefresh_list_item.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380282076313" ignored="false" />
-    <file path="/pulltorefresh_list_item.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380282057264" ignored="false" />
+    <file path="/pulltorefresh_list_item.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381543120441" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/values/dimens.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380534358698" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/values/colors.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380539688526" ignored="false" />
     <file path="$PROJECT_DIR$/../GrabEco/res/layout/pulltorefresh_list.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1380294728135" ignored="false" />
@@ -134,6 +129,84 @@
     <file path="/Item.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381458967513" ignored="false" />
     <file path="/Note.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381459130166" ignored="false" />
     <file path="/contentprovider_main.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381460152096" ignored="false" />
+    <file path="$PROJECT_DIR$/../ShakespeareInstrumented/src/com/androidbook/fragments/bard/DetailsFragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381479305821" ignored="false" />
+    <file path="$PROJECT_DIR$/../ShakespeareInstrumented/src/com/androidbook/fragments/bard/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381470242941" ignored="false" />
+    <file path="/MainFragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381485460686" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/MainFragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381485521083" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/MainActivity2.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381471340641" ignored="false" />
+    <file path="/MainActivity2.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381471338195" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/main_fragment.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381471173193" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381486169595" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/res/layout/main_activity.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381471987390" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/gen/com/grabeco/BuildConfig.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381486257795" ignored="false" />
+    <file path="/main_activity.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381471979582" ignored="false" />
+    <file path="$PROJECT_DIR$/../ShakespeareInstrumented/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381479280664" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/ThreadFragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381480804171" ignored="false" />
+    <file path="/ThreadFragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381481064020" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/TaskFragment.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381481259224" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/src/com/grabeco/podlist/LoadFeedAsyncTask.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381481710085" ignored="false" />
+    <file path="/LoadFeedAsyncTask.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381649408274" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/Tests/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381486163359" ignored="false" />
+    <file path="$PROJECT_DIR$/../GrabEco/gen/com/grabeco/R.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381486171052" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/res/layout/pulltorefresh_list_item.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381543123013" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/res/values/dimens.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381557840763" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/src/com/grabeco/notelist/MMiniNoteListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381545007088" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/res/layout/pulltorefresh_list_item2.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381543078443" ignored="false" />
+    <file path="/pulltorefresh_list_item2.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381543071442" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/AndroidManifest.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381543280618" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/src/com/grabeco/podlist/CalendarButton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381544848693" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/.idea/workspace.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381731611226" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/src/com/grabeco/podlist/PodListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381544769052" ignored="false" />
+    <file path="/PodListAdapter.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381544768477" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/src/com/grabeco/podlist/LoadFeedAsyncTask.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381649412408" ignored="false" />
+    <file path="/CalendarButton.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381544590256" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/src/com/grabeco/podlist/HorizontalListView.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381559479502" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/res/values/styles.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381558235158" ignored="false" />
+    <file path="/styles.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381558092038" ignored="false" />
+    <file path="/HorizontalListView.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381559439105" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/src/com/grabeco/podlist/PodPageParser2.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381649390895" ignored="false" />
+    <file path="/PodPageParser2.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381649380633" ignored="false" />
+    <file path="/LocalServiceActivities.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381982127591" ignored="false" />
+    <file path="/LocalService.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381982247040" ignored="false" />
+    <file path="/mp3player_service_binding.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381983283911" ignored="false" />
+    <file path="/mp3player_service_controller.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381983373128" ignored="false" />
+    <file path="/Mp3PlayerService.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382093582503" ignored="false" />
+    <file path="/Mp3PlayerServiceActivities.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381984609920" ignored="false" />
+    <file path="/CreateNotificationActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381994475011" ignored="false" />
+    <file path="/test_main.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381987459079" ignored="false" />
+    <file path="/NotificationReceiverActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381987730125" ignored="false" />
+    <file path="/test_result.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1381987772149" ignored="false" />
+    <file path="/Mp3Player.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382093311121" ignored="false" />
+    <file path="/mp3player_main.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382000735250" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/BillboardEnHot100Info.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382013119158" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/BillboardKrHot100Info.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012358065" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/BillboardChart.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011789372" ignored="false" />
+    <file path="/BillboardEnHot100Info.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011812204" ignored="false" />
+    <file path="/BillboardChart.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011726428" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/ChartParsePattern.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011370790" ignored="false" />
+    <file path="/ChartParsePattern.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382010778806" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/BillboardParsePattern.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382025238555" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/MelonParsePattern.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011341285" ignored="false" />
+    <file path="/MelonParsePattern.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011332309" ignored="false" />
+    <file path="/BillboardParsePattern.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382025235317" ignored="false" />
+    <file path="/Chart.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011628421" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/Chart.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382011761009" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/MelonChart.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012191650" ignored="false" />
+    <file path="/MelonChart.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012191650" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/MainActivity.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012234165" ignored="false" />
+    <file path="/BillboardKrHot100Info.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012356780" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/MelonWeeklyInfo.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012398023" ignored="false" />
+    <file path="/MelonWeeklyInfo.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012396975" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/src/com/muchart/chartinfo/MelonIndieWeeklyInfo.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012427232" ignored="false" />
+    <file path="/MelonIndieWeeklyInfo.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382012422333" ignored="false" />
+    <file path="/mp3player_notification.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382016335166" ignored="false" />
+    <file path="$PROJECT_DIR$/../muchart/.idea/workspace.xml" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382025301468" ignored="false" />
+    <file path="/PodRssItem.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382088102988" ignored="false" />
+    <file path="$PROJECT_DIR$/../grabeco/src/com/grabeco/podlist/PodRssItem.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382088104348" ignored="false" />
+    <file path="/MediaType.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382089473647" ignored="false" />
+    <file path="/LocalAudioType.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382090137537" ignored="false" />
+    <file path="/MediaParcel.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382093369314" ignored="false" />
+    <file path="/LocalAudioMedia.java" changelist="afec232e-1050-459c-ad7a-486251d819df" time="1382092143712" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +221,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -186,6 +258,7 @@
       </breakpoint>
     </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -195,85 +268,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DatabaseHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/DatabaseHelper.java">
+      <file leaf-file-name="Mp3Player.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.0">
+            <state line="55" column="12" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1071#2063#0" expanded="true" />
+                <element signature="e#2056#2057#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseProvider.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/DatabaseProvider.java">
+      <file leaf-file-name="Mp3PlayerService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3PlayerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="85" selection-start="5493" selection-end="5502" vertical-scroll-proportion="0.0">
+            <state line="140" column="99" selection-start="4184" selection-end="4184" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContentProviderActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/ContentProviderActivity.java">
+      <file leaf-file-name="LocalAudioParcelable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/samples/mp3player/LocalAudioParcelable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.0">
+            <state line="44" column="27" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#858#872#0" expanded="true" />
-                <element signature="e#924#930#0" expanded="true" />
-                <element signature="e#1665#1691#0" expanded="true" />
-                <element signature="e#4161#4175#0" expanded="true" />
-                <element signature="e#6275#6281#0" expanded="true" />
+                <element signature="e#1762#1784#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Note.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/Note.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DownloadItem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/DownloadItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="44" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contentprovider_main.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/layout/contentprovider_main.xml">
+      <file leaf-file-name="mp3player_notification.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/mp3player_notification.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="28" selection-start="576" selection-end="576" vertical-scroll-proportion="0.31128404">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MMiniWriteActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/mbcmini/MMiniWriteActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="48" selection-start="955" selection-end="963" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contract.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/Contract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="35" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0">
+            <state line="17" column="23" selection-start="588" selection-end="588" vertical-scroll-proportion="0.6017699">
               <folding />
             </state>
           </provider>
@@ -297,22 +332,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/samples/closedialogafterlogin/LoginInfo.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/res/layout/logindialog_main.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/logindialog/CloseDialogAfterLoginActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/logindialog/LoginDialog.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/logindialog/LoginInfo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/NoteDatabaseProvider.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/GrabEcoContract.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/Contract.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/DatabaseHelper.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/Item.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/DownloadItem.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/Note.java" />
-        <option value="$PROJECT_DIR$/src/com/example/samples/contentprovider/ContentProviderActivity.java" />
-        <option value="$PROJECT_DIR$/res/layout/contentprovider_main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/mp3player_notification.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/AudioFxDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/MediaPlayerDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/MediaPlayerDemo_Audio.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/MediaPlayerDemo_Video.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/MediaParcel.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/MediaType.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/LocalAudioType.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/LocalAudio.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/Media.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/LocalAudioMedia.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/MediaParcelable.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/LocalAudioParcelable.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3Player.java" />
+        <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3PlayerService.java" />
       </list>
     </option>
   </component>
@@ -348,7 +383,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -403,7 +437,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="progressui" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -425,7 +459,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="onloadinglist" />
+              <option name="myItemId" value="mp3player" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,50 +482,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mbcmini" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NamhSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NamhSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logindialog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NamhSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NamhSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contentprovider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -563,46 +553,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NamhSamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHOW_ALL_PROCESSES" value="false" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="D:/Program Files/Android/sdk/extras/android/support/v4/android-support-v4.jar!/" />
-    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShakespeareInstrumented" />
     <property name="DEBUGGABLE_DEVICE" value="emulator-5554 (AVD_for_Galaxy_Nexus_by_Google)" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="DEBUGGABLE_PROCESS" value="com.example.samples" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_One_by_Google" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.samples.mp3player" />
       <recent name="com.example.samples.contentprovider" />
       <recent name="com.example.samples.closedialogafterlogin" />
       <recent name="com.example.samples.onloadinglist" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\mine\programming\android\NamhSamples\res\layout" />
+      <recent name="D:\mine\programming\android\NamhSamples\src\com\example\samples\mp3player" />
       <recent name="D:\mine\programming\android\NamhSamples\src\com\example\samples\contentprovider" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -788,29 +817,30 @@
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.60972714" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.60972714" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26927638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40332147" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5516014" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833335" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740214" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42941874" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24918832" sideWeight="0.60972714" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18912338" sideWeight="0.6702254" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28084415" sideWeight="0.59667856" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1096" height="800" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.59667856" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.59667856" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -879,134 +909,118 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/mmini_write.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/content/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.08">
+        <state line="1584" column="40" selection-start="72176" selection-end="72176" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/os/Parcel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+        <state line="1371" column="21" selection-start="48157" selection-end="48157" vertical-scroll-proportion="0.19298245">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/logindialog/CloseDialogAfterLoginActivity.java">
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/os/UserHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="56" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0">
+        <state line="171" column="43" selection-start="5355" selection-end="5355" vertical-scroll-proportion="0.40350878" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/content/Intent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4048" column="0" selection-start="184677" selection-end="184677" vertical-scroll-proportion="0.5485327">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/logindialog/LoginInfo.java">
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/content/ContextWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+        <state line="449" column="29" selection-start="12710" selection-end="12710" vertical-scroll-proportion="0.33333334">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/logindialog_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="-1.28">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/logindialog/LoginDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="34" selection-start="2471" selection-end="2471" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="56" selection-start="3517" selection-end="3532" vertical-scroll-proportion="0.0">
+        <state line="95" column="90" selection-start="3906" selection-end="3906" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1382004723432" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382004723432" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/app/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="305" column="16" selection-start="15348" selection-end="15348" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/mbcmini/MMiniWriteActivity.java">
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/android/media/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="48" selection-start="955" selection-end="963" vertical-scroll-proportion="0.0">
+        <state line="853" column="16" selection-start="40666" selection-end="40666" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/Contract.java">
+    <entry file="file://D:/Program Files/Android/sdk/sources/android-17/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="35" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0">
+        <state line="492" column="18" selection-start="17984" selection-end="17984" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/DatabaseHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/mp3player/Media.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.0">
+        <state line="19" column="36" selection-start="385" selection-end="385" vertical-scroll-proportion="0.6373166">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/viewpager/ViewPager.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="484" column="27" selection-start="17623" selection-end="17623" vertical-scroll-proportion="0.33204633">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/DownloadItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="44" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/Note.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/DatabaseProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="85" selection-start="5493" selection-end="5502" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/samples/contentprovider/ContentProviderActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.0">
+        <state line="55" column="12" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#858#872#0" expanded="true" />
-            <element signature="e#924#930#0" expanded="true" />
-            <element signature="e#1665#1691#0" expanded="true" />
-            <element signature="e#4161#4175#0" expanded="true" />
-            <element signature="e#6275#6281#0" expanded="true" />
+            <element signature="e#1071#2063#0" expanded="true" />
+            <element signature="e#2056#2057#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/contentprovider_main.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/mp3player/LocalAudioParcelable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="27" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1762#1784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3PlayerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="99" selection-start="4184" selection-end="4184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/mp3player_notification.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="576" selection-end="576" vertical-scroll-proportion="0.31128404">
+        <state line="17" column="23" selection-start="588" selection-end="588" vertical-scroll-proportion="0.6017699">
           <folding />
         </state>
       </provider>

@@ -82,6 +82,50 @@
         </activity>
 
 
+        <!-- CloseDialogAfterLoginActivity Example -->
+        <activity android:name=".contentprovider.ContentProviderActivity"
+                  android:label="ContentProvider">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.NAMH_SAMPLE_CODE" />
+            </intent-filter>
+
+        </activity>
+
+        <!-- Mp3 player Service Samples -->
+        <service android:name=".mp3player.Mp3PlayerService" android:stopWithTask="true" />
+        <activity android:name=".mp3player.Mp3Player"
+                  android:label="Mp3Player">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.NAMH_SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+
+
+        <!-- test Samples -->
+        <activity android:name=".test.CreateNotificationActivity"
+                  android:label="CreateNotificationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.NAMH_SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".test.NotificationReceiverActivity"
+                  android:label="NotificationReceiverActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.NAMH_SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+
+
+
+
+
+
         <!-- DatabaseProvider -->
         <provider
                 android:name=".contentprovider.DatabaseProvider"

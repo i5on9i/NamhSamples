@@ -16,4 +16,39 @@
     <!-- logindialog -->
     <string name="login_failed">"로그인 실패"</string>
 
+    <!-- mp3player -->
+    <string name="activity_mp3player_service_controller">"mp3player service controller"</string>
+    <string name="activity_mp3player_service_binding">"mp3player service binding"</string>
+
+    <string name="mp3player_service_binding">"mp3player service binding"</string>
+    <string name="bind_service">"bind service"</string>
+    <string name="unbind_service">"unbind service"</string>
+
+    <string name="mp3player_service_controller">"mp3player service controller"</string>
+    <string name="start_service">"start service"</string>
+    <string name="stop_service">"stop service"</string>
+
+
+
+
+
+
+    <string name="mp3player_service_stopped">"mp3 player Service is stopped"</string>
+    <string name="mp3player_service_started">"mp3 player Service is started"</string>
+
+    <string name="mp3player_content_info">"namh content info namh"</string>
+
+
+
+
+    <string name="mp3player_service_label">"Namh Mp3 Player"</string>
+
+    <string name="mp3player_service_connected">"mp3 player is connected"</string>
+    <string name="mp3player_service_disconnected">"mp3 player is disconnected"</string>
+
+
+
+
+
+
 </resources>
