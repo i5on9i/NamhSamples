@@ -81,5 +81,16 @@
 
         </activity>
 
+
+        <!-- DatabaseProvider -->
+        <provider
+                android:name=".contentprovider.DatabaseProvider"
+                android:authorities="com.contentprovider"
+                android:exported="false"
+                android:grantUriPermissions="true"
+                android:label="NoteDatabaseProvider"
+                android:readPermission="com.grabeco.READ"
+                android:writePermission="com.grabeco.WRITE" />
+
     </application>
 </manifest>

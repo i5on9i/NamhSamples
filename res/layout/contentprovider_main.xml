@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Write"
+            android:id="@+id/button_backup" android:layout_gravity="center"/>
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Retrieve"
+            android:id="@+id/button_retrieve" android:layout_gravity="center"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:text="This example does not show anything, you should check how to work with Debugger ^^;;;"
+            android:id="@+id/textView" android:layout_gravity="center"/>
+
+
+</LinearLayout>
+
