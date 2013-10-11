@@ -71,5 +71,15 @@
 
         </activity>
 
+        <!-- CloseDialogAfterLoginActivity Example -->
+        <activity android:name=".logindialog.CloseDialogAfterLoginActivity"
+                  android:label="CloseDialogAfterLogin">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.NAMH_SAMPLE_CODE" />
+            </intent-filter>
+
+        </activity>
+
     </application>
 </manifest>

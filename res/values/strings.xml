@@ -11,4 +11,9 @@
     <string name="countrylabel">"Country : "</string>
     <string name="populationlabel">"Population : "</string>
     <string name="text_sending_message">"전송 : "</string>
+
+
+    <!-- logindialog -->
+    <string name="login_failed">"로그인 실패"</string>
+
 </resources>
