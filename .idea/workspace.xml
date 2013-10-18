@@ -331,7 +331,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/mp3player_notification.xml" />
         <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/AudioFxDemo.java" />
         <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/MediaPlayerDemo.java" />
@@ -347,6 +346,7 @@
         <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/LocalAudioParcelable.java" />
         <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3Player.java" />
         <option value="$PROJECT_DIR$/src/com/example/samples/mp3player/Mp3PlayerService.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -991,6 +991,13 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="23" selection-start="462" selection-end="462" vertical-scroll-proportion="0.42477876">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="48" selection-start="3536" selection-end="3536" vertical-scroll-proportion="0.51758796">
           <folding />
         </state>
       </provider>
